@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+nav{
+font-family: 'Teko', sans-serif;  
+}
+
+.navbar-brand{
+font-size:26px;
+}
+
+.navbar-toggler
+{
+background-color:white; 
+}
+
+
+.nav-link{
+color:white;
+ font-size:19px
+}
+
+.nav-link:hover{
+color:yellowgreen;
+}
+
+
+
+
+
+
+
+
+
+h1{
+	padding-top:50px;
+	text-align: center;
+	font-family:fantasy;
+	
+}
+
+.container{
+	margin-top: 50px;
+	border-style:ridge;
+	min-width:200px;
+}
+
+thead{
+	background-color:aqua; 
+
+}
+
+
+td,th{
+	height:80px;
+	width:80px;
+}
+
+tr,td{
+	
+	text-align: center;
+	border:2px solid rgb(141,143,146); 
+	
+	
+}
+
+
+.btn-secondary:hover{
+    background-color: #000000!important;
+
+}
+
